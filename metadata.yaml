@@ -1,0 +1,24 @@
+_repo: My-Life-and-Loves_59827
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harris, Frank
+    alias: Harris, James Thomas
+    birthdate: 1856
+    deathdate: 1931
+    gutenberg_agent_id: '1255'
+    url: http://www.gutenberg.org/2009/agents/1255
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Harris
+description: ''
+gutenberg_issued: '2019-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: My Life and Loves
+url: http://www.gutenberg.org/ebooks/59827
